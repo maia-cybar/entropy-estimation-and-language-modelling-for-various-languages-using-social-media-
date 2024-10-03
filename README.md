@@ -4,7 +4,7 @@ This master's thesis, undertaken as part of the MSc in Computational Software Te
 
 ## Key Metrics
 •	Languages Studied: English (EN), Arabic(AR)
-•	Programming Languages: C++, Python, Java and fortran
+•	Programming Languages: C++, Python, C and fortran
 •	Data Collection: +300 Millions of Tweets Collected, ~80Gb of Data processed
 •	Entropy Estimation:  
 
