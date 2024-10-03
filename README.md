@@ -23,7 +23,7 @@ Here is the general workflow of the project:
 #### Social Media Data
 For the Social Media data, Twitter was used as the main source. The data was collected using scraping, streaming and Twitter API. A total of around 200-300 million tweets were collected, using different methods.
 #### Computer Language Data
-For the Computer Language data, the data was collected using GitHub API. Also data was srapped from …. ,  CodeNet is a large-scale, high-quality dataset of programmatic source code. It contains 14M code samples from 55 programming languages
+For the Computer Language data, the data was collected using GitHub API. Also data was srapped from John Burkardt page ,  John Burkardt is a large-scale, high-quality dataset of programmatic source code. It contains 14M code samples from 55 programming languages
 
 ## Data Acquisition
 Collect data from Twitter using scraping, streaming and Twitter API.
